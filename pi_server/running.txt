@@ -1,0 +1,2 @@
+searching_equipment=1327
+subscribe_mqtt=1333

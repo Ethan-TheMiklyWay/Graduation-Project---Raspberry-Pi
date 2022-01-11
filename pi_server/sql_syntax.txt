@@ -1,0 +1,4 @@
+insert:INSERT INTO iot_info (id, pi_id, nodemcu_id, time, temperature, moisture, retrieve, other) VALUES ( {}, {}, {}, {}, {}, {}, {} )
+delete:DELETE FROM iot_info WHERE {} = {}
+update:UPDATE iot_info SET {} = {} WHERE {} = {}
+select:SELECT {} FROM iot_info WHERE {} = {}
